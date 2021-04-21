@@ -294,3 +294,18 @@ footer {
     font-size: 270%;
   }
 }
+@media screen and (max-width: 662px) {
+  h1 {
+    font-size: 40px;
+  }
+}
+@media screen and (max-width: 568px) {
+  h1 {
+    font-size: 35px;
+  }
+}
+@media screen and (max-width: 524px) {
+  h1 {
+    font-size: 32px;
+  }
+}
