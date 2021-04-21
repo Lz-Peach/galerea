@@ -309,3 +309,22 @@ footer {
     font-size: 32px;
   }
 }
+@media screen and (max-width: 324px) {
+  h1 {
+    font-size: 0;
+  }
+  .box-image {
+    padding-left: 20px;
+  }
+  .picture_text {
+    width: 95%;
+    margin-left: 0;
+  }
+  .picture_img {
+    width: 95%;
+  }
+  .header-burger {
+    display: inline-block;
+    margin-right: 0;
+  }
+}
