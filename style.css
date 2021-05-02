@@ -81,12 +81,6 @@ body {
 h1 {
   color: #fff;
 }
-.h1-1 {
-  color: #000;
-  text-align: center;
-  font-size: 27px;
-  letter-spacing: 1px;
-}
 hr {
   width: 100%;
   size: 1;
@@ -289,9 +283,13 @@ footer {
   .pict_descr {
     width: 81%;
     margin-left: 68px;
+    font-size: 125%;
   }
   .pict_name {
-    font-size: 270%;
+    font-size: 260%;
+  }
+  .picture_name {
+    font-size: 185%;
   }
 }
 @media screen and (max-width: 662px) {
